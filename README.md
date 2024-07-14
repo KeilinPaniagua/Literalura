@@ -4,7 +4,7 @@ Este proyecto tiene como objetivo desarrollar habilidades en persistencia de dat
 
 Está diseñado como parte del curso de backend en Java para el programa ONE Oracle y Alura Latam, centrado en la gestión de datos de libros y autores.
 
-![Proyecto Literalura]()
+![Proyecto Literalura](https://github.com/KeilinPaniagua/Literalura/blob/main/Proyecto%20Literalura.png)
 
 ## Funcionamiento
 
@@ -23,7 +23,7 @@ Está diseñado como parte del curso de backend en Java para el programa ONE Ora
 ## Video del funcionamiento de la aplicación
 
 
-[![Mira el vídeo]()](https://youtu.be/aFNzeNpjQ5g)
+[![Mira el vídeo](https://github.com/KeilinPaniagua/Literalura/blob/main/Proyecto%20Literalura.png)](https://youtu.be/aFNzeNpjQ5g)
 
 
 
